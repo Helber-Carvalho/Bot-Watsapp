@@ -1,0 +1,345 @@
+2024/07/26-20:38:40.558 2cbc Reusing MANIFEST c:\Users\DEV\Desktop\Assistentewpp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/26-20:38:40.560 2cbc Recovering log #464
+2024/07/26-20:38:40.590 2cbc Reusing old log c:\Users\DEV\Desktop\Assistentewpp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000464.log 
+2024/07/26-20:38:40.592 2cbc Delete type=2 #484
+2024/07/26-20:38:40.592 2cbc Delete type=2 #485
+2024/07/26-20:38:40.592 2cbc Delete type=2 #486
+2024/07/26-20:38:40.593 2cbc Delete type=2 #487
+2024/07/26-20:38:43.494 2f68 Level-0 table #486: started
+2024/07/26-20:38:43.525 2f68 Level-0 table #486: 383914 bytes OK
+2024/07/26-20:38:43.529 2f68 Delete type=0 #464
+2024/07/26-20:38:43.533 2464 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 1709981 : 1
+2024/07/26-20:38:43.533 2464 Compacting 1@0 + 2@1 files
+2024/07/26-20:38:43.622 2464 Generated table #487@0: 8912 keys, 1526619 bytes
+2024/07/26-20:38:43.679 2464 Generated table #488@0: 8312 keys, 668144 bytes
+2024/07/26-20:38:43.679 2464 Compacted 1@0 + 2@1 files => 2194763 bytes
+2024/07/26-20:38:43.680 2464 compacted to: files[ 0 2 20 0 0 0 0 ]
+2024/07/26-20:38:43.682 2464 Delete type=2 #486
+2024/07/26-20:38:43.683 2464 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 1709981 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/26-20:38:43.691 2464 Level-0 table #490: started
+2024/07/26-20:38:43.696 2464 Level-0 table #490: 436 bytes OK
+2024/07/26-20:38:43.698 2464 Delete type=2 #472
+2024/07/26-20:38:43.698 2464 Delete type=2 #473
+2024/07/26-20:38:43.698 2464 Delete type=0 #485
+2024/07/26-20:38:43.701 2464 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 1710014 : 0
+2024/07/26-20:38:43.701 2464 Compacting 1@0 + 2@1 files
+2024/07/26-20:38:43.812 2464 Generated table #491@0: 8916 keys, 1526677 bytes
+2024/07/26-20:38:43.881 2464 Generated table #492@0: 8310 keys, 668123 bytes
+2024/07/26-20:38:43.881 2464 Compacted 1@0 + 2@1 files => 2194800 bytes
+2024/07/26-20:38:43.882 2464 compacted to: files[ 0 2 20 0 0 0 0 ]
+2024/07/26-20:38:43.884 2464 Delete type=2 #490
+2024/07/26-20:38:43.885 2464 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 1710014 : 0 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/26-20:38:46.853 2cbc Compacting 1@1 + 11@2 files
+2024/07/26-20:38:47.159 2cbc Generated table #493@1: 42063 keys, 2210517 bytes
+2024/07/26-20:38:47.416 2cbc Generated table #494@1: 53311 keys, 2222277 bytes
+2024/07/26-20:38:47.549 2cbc Generated table #495@1: 2427 keys, 2158993 bytes
+2024/07/26-20:38:47.664 2cbc Generated table #496@1: 2171 keys, 2150325 bytes
+2024/07/26-20:38:47.760 2cbc Generated table #497@1: 2219 keys, 2152387 bytes
+2024/07/26-20:38:47.949 2cbc Generated table #498@1: 1290 keys, 2142232 bytes
+2024/07/26-20:38:48.039 2cbc Generated table #499@1: 1430 keys, 2150823 bytes
+2024/07/26-20:38:48.107 2cbc Generated table #500@1: 1394 keys, 2150131 bytes
+2024/07/26-20:38:48.186 2cbc Generated table #501@1: 1336 keys, 2143453 bytes
+2024/07/26-20:38:48.252 2cbc Generated table #502@1: 1278 keys, 2142277 bytes
+2024/07/26-20:38:48.337 2cbc Generated table #503@1: 1328 keys, 2142670 bytes
+2024/07/26-20:38:48.360 2cbc Generated table #504@1: 492 keys, 379933 bytes
+2024/07/26-20:38:48.360 2cbc Compacted 1@1 + 11@2 files => 24146018 bytes
+2024/07/26-20:38:48.361 2cbc compacted to: files[ 0 1 21 0 0 0 0 ]
+2024/07/26-20:38:48.362 2cbc Delete type=2 #403
+2024/07/26-20:38:48.363 2cbc Delete type=2 #474
+2024/07/26-20:38:48.363 2cbc Delete type=2 #475
+2024/07/26-20:38:48.363 2cbc Delete type=2 #476
+2024/07/26-20:38:48.363 2cbc Delete type=2 #477
+2024/07/26-20:38:48.363 2cbc Delete type=2 #478
+2024/07/26-20:38:48.363 2cbc Delete type=2 #479
+2024/07/26-20:38:48.363 2cbc Delete type=2 #480
+2024/07/26-20:38:48.364 2cbc Delete type=2 #481
+2024/07/26-20:38:48.364 2cbc Delete type=2 #482
+2024/07/26-20:38:48.364 2cbc Delete type=2 #483
+2024/07/26-20:38:48.364 2cbc Delete type=2 #487
+2024/07/26-20:38:48.365 2cbc Delete type=2 #488
+2024/07/26-20:38:48.365 2cbc Delete type=2 #491
+2024/07/26-20:38:48.386 2cbc Compacting 1@1 + 9@2 files
+2024/07/26-20:38:48.540 2cbc Generated table #505@1: 2972 keys, 2156373 bytes
+2024/07/26-20:38:48.673 2cbc Generated table #506@1: 3028 keys, 2161805 bytes
+2024/07/26-20:38:48.827 2cbc Generated table #507@1: 12010 keys, 2172376 bytes
+2024/07/26-20:38:49.083 2cbc Generated table #508@1: 30933 keys, 2251653 bytes
+2024/07/26-20:38:49.312 2cbc Generated table #509@1: 23792 keys, 2280395 bytes
+2024/07/26-20:38:49.512 2cbc Generated table #510@1: 24719 keys, 2271235 bytes
+2024/07/26-20:38:49.702 2cbc Generated table #511@1: 36938 keys, 2248009 bytes
+2024/07/26-20:38:49.873 2cbc Generated table #512@1: 46987 keys, 2250784 bytes
+2024/07/26-20:38:50.041 2cbc Generated table #513@1: 85202 keys, 2116051 bytes
+2024/07/26-20:38:50.042 2cbc Compacted 1@1 + 9@2 files => 19908681 bytes
+2024/07/26-20:38:50.043 2cbc compacted to: files[ 0 0 21 0 0 0 0 ]
+2024/07/26-20:38:50.044 2cbc Delete type=2 #404
+2024/07/26-20:38:50.044 2cbc Delete type=2 #445
+2024/07/26-20:38:50.044 2cbc Delete type=2 #446
+2024/07/26-20:38:50.045 2cbc Delete type=2 #447
+2024/07/26-20:38:50.045 2cbc Delete type=2 #448
+2024/07/26-20:38:50.045 2cbc Delete type=2 #449
+2024/07/26-20:38:50.045 2cbc Delete type=2 #459
+2024/07/26-20:38:50.045 2cbc Delete type=2 #460
+2024/07/26-20:38:50.046 2cbc Delete type=2 #461
+2024/07/26-20:38:50.046 2cbc Delete type=2 #492
+2024/07/26-20:39:01.640 2cbc Level-0 table #515: started
+2024/07/26-20:39:01.729 2cbc Level-0 table #515: 1342439 bytes OK
+2024/07/26-20:39:01.731 2cbc Delete type=0 #489
+2024/07/26-20:39:01.739 2cbc Compacting 1@0 + 0@1 files
+2024/07/26-20:39:01.801 2cbc Generated table #516@0: 12910 keys, 327756 bytes
+2024/07/26-20:39:01.833 2cbc Generated table #517@0: 1180 keys, 152973 bytes
+2024/07/26-20:39:01.833 2cbc Compacted 1@0 + 0@1 files => 480729 bytes
+2024/07/26-20:39:01.834 2cbc compacted to: files[ 0 2 21 0 0 0 0 ]
+2024/07/26-20:39:01.865 2464 Compacting 1@1 + 9@2 files
+2024/07/26-20:39:02.026 2464 Generated table #518@1: 2975 keys, 2155612 bytes
+2024/07/26-20:39:02.193 2464 Generated table #519@1: 3026 keys, 2163048 bytes
+2024/07/26-20:39:02.384 2464 Generated table #520@1: 12080 keys, 2173632 bytes
+2024/07/26-20:39:02.586 2464 Generated table #521@1: 30906 keys, 2251543 bytes
+2024/07/26-20:39:02.816 2464 Generated table #522@1: 23797 keys, 2279686 bytes
+2024/07/26-20:39:03.028 2464 Generated table #523@1: 24704 keys, 2270994 bytes
+2024/07/26-20:39:03.249 2464 Generated table #524@1: 37139 keys, 2248364 bytes
+2024/07/26-20:39:03.459 2464 Generated table #525@1: 47304 keys, 2258401 bytes
+2024/07/26-20:39:03.691 2464 Generated table #526@1: 85722 keys, 2233280 bytes
+2024/07/26-20:39:03.695 2464 Generated table #527@1: 3 keys, 1456 bytes
+2024/07/26-20:39:03.695 2464 Compacted 1@1 + 9@2 files => 20036016 bytes
+2024/07/26-20:39:03.696 2464 compacted to: files[ 0 1 22 0 0 0 0 ]
+2024/07/26-20:39:03.698 2464 Delete type=2 #505
+2024/07/26-20:39:03.698 2464 Delete type=2 #506
+2024/07/26-20:39:03.698 2464 Delete type=2 #507
+2024/07/26-20:39:03.699 2464 Delete type=2 #508
+2024/07/26-20:39:03.699 2464 Delete type=2 #509
+2024/07/26-20:39:03.699 2464 Delete type=2 #510
+2024/07/26-20:39:03.699 2464 Delete type=2 #511
+2024/07/26-20:39:03.700 2464 Delete type=2 #512
+2024/07/26-20:39:03.700 2464 Delete type=2 #513
+2024/07/26-20:39:03.700 2464 Delete type=2 #515
+2024/07/26-20:39:03.700 2464 Delete type=2 #517
+2024/07/26-20:39:03.891 2464 Compacting 1@1 + 2@2 files
+2024/07/26-20:39:04.147 2464 Generated table #528@1: 43109 keys, 2211659 bytes
+2024/07/26-20:39:04.419 2464 Generated table #529@1: 54317 keys, 2222788 bytes
+2024/07/26-20:39:04.426 2464 Generated table #530@1: 83 keys, 70117 bytes
+2024/07/26-20:39:04.427 2464 Compacted 1@1 + 2@2 files => 4504564 bytes
+2024/07/26-20:39:04.428 2464 compacted to: files[ 0 0 23 0 0 0 0 ]
+2024/07/26-20:39:14.652 2f68 Level-0 table #532: started
+2024/07/26-20:39:14.755 2f68 Level-0 table #532: 1298773 bytes OK
+2024/07/26-20:39:14.758 2f68 Delete type=2 #493
+2024/07/26-20:39:14.758 2f68 Delete type=2 #494
+2024/07/26-20:39:14.758 2f68 Delete type=0 #514
+2024/07/26-20:39:14.758 2f68 Delete type=2 #516
+2024/07/26-20:39:15.206 2cbc Compacting 1@0 + 0@1 files
+2024/07/26-20:39:15.281 2cbc Generated table #533@0: 13216 keys, 479095 bytes
+2024/07/26-20:39:15.317 2cbc Generated table #534@0: 4981 keys, 219441 bytes
+2024/07/26-20:39:15.318 2cbc Compacted 1@0 + 0@1 files => 698536 bytes
+2024/07/26-20:39:15.319 2cbc compacted to: files[ 0 2 23 0 0 0 0 ]
+2024/07/26-20:39:15.320 2cbc Delete type=2 #532
+2024/07/26-20:39:15.795 2cbc Level-0 table #536: started
+2024/07/26-20:39:15.956 2cbc Level-0 table #536: 1706301 bytes OK
+2024/07/26-20:39:15.960 2cbc Delete type=0 #531
+2024/07/26-20:39:15.976 2cbc Compacting 1@0 + 2@1 files
+2024/07/26-20:39:16.160 2cbc Generated table #537@0: 18347 keys, 1715467 bytes
+2024/07/26-20:39:16.260 2cbc Generated table #538@0: 8254 keys, 677983 bytes
+2024/07/26-20:39:16.265 2cbc Generated table #539@0: 3 keys, 224 bytes
+2024/07/26-20:39:16.266 2cbc Compacted 1@0 + 2@1 files => 2393674 bytes
+2024/07/26-20:39:16.267 2cbc compacted to: files[ 0 3 23 0 0 0 0 ]
+2024/07/26-20:39:16.268 2cbc Delete type=2 #533
+2024/07/26-20:39:16.269 2cbc Delete type=2 #534
+2024/07/26-20:39:16.269 2cbc Delete type=2 #536
+2024/07/26-20:39:16.282 2cbc Compacting 1@1 + 11@2 files
+2024/07/26-20:39:16.379 2cbc Generated table #540@1: 1296 keys, 2143112 bytes
+2024/07/26-20:39:16.544 2cbc Generated table #541@1: 2552 keys, 2154095 bytes
+2024/07/26-20:39:16.544 2cbc Level-0 table #543: started
+2024/07/26-20:39:16.764 2cbc Level-0 table #543: 1615852 bytes OK
+2024/07/26-20:39:16.767 2cbc Delete type=0 #535
+2024/07/26-20:39:16.949 2cbc Generated table #544@1: 3248 keys, 2160842 bytes
+2024/07/26-20:39:17.124 2cbc Generated table #545@1: 3388 keys, 2160337 bytes
+2024/07/26-20:39:17.362 2cbc Generated table #546@1: 34045 keys, 2236759 bytes
+2024/07/26-20:39:17.641 2cbc Level-0 table #549: started
+2024/07/26-20:39:17.754 2cbc Level-0 table #549: 1399779 bytes OK
+2024/07/26-20:39:17.757 2cbc Delete type=0 #542
+2024/07/26-20:39:17.793 2cbc Generated table #547@1: 23770 keys, 2278287 bytes
+2024/07/26-20:39:18.466 2cbc Generated table #550@1: 24603 keys, 2276592 bytes
+2024/07/26-20:39:18.841 2cbc Generated table #551@1: 24994 keys, 2273182 bytes
+2024/07/26-20:39:19.279 2cbc Generated table #552@1: 62606 keys, 2273397 bytes
+2024/07/26-20:39:19.534 2cbc Generated table #553@1: 54439 keys, 2203358 bytes
+2024/07/26-20:39:19.723 2cbc Generated table #554@1: 40275 keys, 949829 bytes
+2024/07/26-20:39:19.723 2cbc Compacted 1@1 + 11@2 files => 23109790 bytes
+2024/07/26-20:39:19.724 2cbc compacted to: files[ 2 2 23 0 0 0 0 ]
+2024/07/26-20:39:19.726 2cbc Delete type=2 #503
+2024/07/26-20:39:19.726 2cbc Delete type=2 #504
+2024/07/26-20:39:19.727 2cbc Delete type=2 #518
+2024/07/26-20:39:19.727 2cbc Delete type=2 #519
+2024/07/26-20:39:19.727 2cbc Delete type=2 #520
+2024/07/26-20:39:19.728 2cbc Delete type=2 #521
+2024/07/26-20:39:19.728 2cbc Delete type=2 #522
+2024/07/26-20:39:19.729 2cbc Delete type=2 #523
+2024/07/26-20:39:19.729 2cbc Delete type=2 #524
+2024/07/26-20:39:19.729 2cbc Delete type=2 #525
+2024/07/26-20:39:19.730 2cbc Delete type=2 #526
+2024/07/26-20:39:19.730 2cbc Delete type=2 #538
+2024/07/26-20:39:19.749 2cbc Compacting 2@0 + 1@1 files
+2024/07/26-20:39:20.175 2cbc Generated table #555@0: 29457 keys, 2194768 bytes
+2024/07/26-20:39:20.267 2cbc Generated table #556@0: 758 keys, 1253986 bytes
+2024/07/26-20:39:20.423 2cbc Generated table #557@0: 8176 keys, 1254735 bytes
+2024/07/26-20:39:20.424 2cbc Compacted 2@0 + 1@1 files => 4703489 bytes
+2024/07/26-20:39:20.426 2cbc compacted to: files[ 0 4 23 0 0 0 0 ]
+2024/07/26-20:39:20.503 2cbc Compacting 1@1 + 10@2 files
+2024/07/26-20:39:20.611 2cbc Level-0 table #560: started
+2024/07/26-20:39:20.698 2cbc Level-0 table #560: 883735 bytes OK
+2024/07/26-20:39:20.702 2cbc Delete type=2 #537
+2024/07/26-20:39:20.703 2cbc Delete type=2 #543
+2024/07/26-20:39:20.703 2cbc Delete type=0 #548
+2024/07/26-20:39:20.704 2cbc Delete type=2 #549
+2024/07/26-20:39:20.733 2cbc Generated table #558@1: 1300 keys, 2148438 bytes
+2024/07/26-20:39:20.853 2cbc Generated table #561@1: 2482 keys, 2154245 bytes
+2024/07/26-20:39:21.022 2cbc Generated table #562@1: 3124 keys, 2159579 bytes
+2024/07/26-20:39:21.463 2cbc Generated table #563@1: 3021 keys, 2159696 bytes
+2024/07/26-20:39:21.621 2cbc Generated table #564@1: 27680 keys, 2198465 bytes
+2024/07/26-20:39:21.842 2cbc Generated table #565@1: 24673 keys, 2276510 bytes
+2024/07/26-20:39:22.077 2cbc Generated table #566@1: 24913 keys, 2276078 bytes
+2024/07/26-20:39:22.301 2cbc Generated table #567@1: 24180 keys, 2271468 bytes
+2024/07/26-20:39:22.526 2cbc Generated table #568@1: 41370 keys, 2250586 bytes
+2024/07/26-20:39:22.691 2cbc Generated table #569@1: 41319 keys, 2246889 bytes
+2024/07/26-20:39:22.793 2cbc Generated table #570@1: 49054 keys, 1312148 bytes
+2024/07/26-20:39:22.793 2cbc Compacted 1@1 + 10@2 files => 23454102 bytes
+2024/07/26-20:39:22.795 2cbc compacted to: files[ 1 3 24 0 0 0 0 ]
+2024/07/26-20:39:22.800 2cbc Compacting 1@0 + 2@1 files
+2024/07/26-20:39:22.964 2cbc Generated table #571@0: 40116 keys, 2210667 bytes
+2024/07/26-20:39:23.005 2cbc Generated table #572@0: 546 keys, 912363 bytes
+2024/07/26-20:39:23.032 2cbc Generated table #573@0: 6775 keys, 328216 bytes
+2024/07/26-20:39:23.036 2cbc Generated table #574@0: 102 keys, 2141 bytes
+2024/07/26-20:39:23.036 2cbc Compacted 1@0 + 2@1 files => 3453387 bytes
+2024/07/26-20:39:23.037 2cbc compacted to: files[ 0 5 24 0 0 0 0 ]
+2024/07/26-20:39:23.038 2cbc Delete type=2 #540
+2024/07/26-20:39:23.038 2cbc Delete type=2 #541
+2024/07/26-20:39:23.038 2cbc Delete type=2 #544
+2024/07/26-20:39:23.038 2cbc Delete type=2 #545
+2024/07/26-20:39:23.039 2cbc Delete type=2 #546
+2024/07/26-20:39:23.039 2cbc Delete type=2 #547
+2024/07/26-20:39:23.039 2cbc Delete type=2 #550
+2024/07/26-20:39:23.039 2cbc Delete type=2 #551
+2024/07/26-20:39:23.039 2cbc Delete type=2 #552
+2024/07/26-20:39:23.039 2cbc Delete type=2 #553
+2024/07/26-20:39:23.040 2cbc Delete type=2 #557
+2024/07/26-20:39:23.185 2cbc Compacting 1@1 + 10@2 files
+2024/07/26-20:39:23.288 2cbc Generated table #575@1: 2486 keys, 2153862 bytes
+2024/07/26-20:39:23.390 2cbc Generated table #576@1: 3062 keys, 2158242 bytes
+2024/07/26-20:39:23.528 2cbc Generated table #577@1: 3034 keys, 2161397 bytes
+2024/07/26-20:39:23.647 2cbc Generated table #578@1: 25614 keys, 2192913 bytes
+2024/07/26-20:39:23.853 2cbc Generated table #579@1: 25605 keys, 2273390 bytes
+2024/07/26-20:39:24.057 2cbc Generated table #580@1: 24965 keys, 2275947 bytes
+2024/07/26-20:39:24.281 2cbc Generated table #581@1: 24105 keys, 2273550 bytes
+2024/07/26-20:39:24.521 2cbc Generated table #582@1: 31633 keys, 2247104 bytes
+2024/07/26-20:39:24.805 2cbc Generated table #583@1: 57371 keys, 2273409 bytes
+2024/07/26-20:39:24.923 2cbc Generated table #584@1: 50714 keys, 1639597 bytes
+2024/07/26-20:39:24.924 2cbc Compacted 1@1 + 10@2 files => 21649411 bytes
+2024/07/26-20:39:24.925 2cbc compacted to: files[ 0 4 24 0 0 0 0 ]
+2024/07/26-20:39:24.926 2cbc Delete type=2 #555
+2024/07/26-20:39:24.927 2cbc Delete type=2 #556
+2024/07/26-20:39:24.927 2cbc Delete type=2 #560
+2024/07/26-20:39:24.927 2cbc Delete type=2 #561
+2024/07/26-20:39:24.927 2cbc Delete type=2 #562
+2024/07/26-20:39:24.927 2cbc Delete type=2 #563
+2024/07/26-20:39:24.928 2cbc Delete type=2 #564
+2024/07/26-20:39:24.928 2cbc Delete type=2 #565
+2024/07/26-20:39:24.928 2cbc Delete type=2 #566
+2024/07/26-20:39:24.928 2cbc Delete type=2 #567
+2024/07/26-20:39:24.928 2cbc Delete type=2 #568
+2024/07/26-20:39:24.928 2cbc Delete type=2 #569
+2024/07/26-20:39:24.929 2cbc Delete type=2 #570
+2024/07/26-20:39:24.929 2cbc Delete type=2 #573
+2024/07/26-20:39:25.611 2cbc Compacting 1@1 + 1@2 files
+2024/07/26-20:39:25.698 2cbc Generated table #585@1: 40377 keys, 952788 bytes
+2024/07/26-20:39:25.698 2cbc Compacted 1@1 + 1@2 files => 952788 bytes
+2024/07/26-20:39:25.699 2cbc compacted to: files[ 0 3 24 0 0 0 0 ]
+2024/07/26-20:39:25.701 2464 Compacting 1@1 + 9@2 files
+2024/07/26-20:39:25.835 2464 Generated table #586@1: 42627 keys, 2211245 bytes
+2024/07/26-20:39:26.019 2464 Generated table #587@1: 55522 keys, 2224218 bytes
+2024/07/26-20:39:26.102 2464 Generated table #588@1: 2483 keys, 2164283 bytes
+2024/07/26-20:39:26.179 2464 Generated table #589@1: 2090 keys, 2156543 bytes
+2024/07/26-20:39:26.255 2464 Generated table #590@1: 2517 keys, 2157953 bytes
+2024/07/26-20:39:26.316 2464 Generated table #591@1: 1289 keys, 2147791 bytes
+2024/07/26-20:39:26.385 2464 Generated table #592@1: 1329 keys, 2142829 bytes
+2024/07/26-20:39:26.452 2464 Generated table #593@1: 1411 keys, 2147024 bytes
+2024/07/26-20:39:26.526 2464 Generated table #594@1: 1037 keys, 1650374 bytes
+2024/07/26-20:39:26.527 2464 Compacted 1@1 + 9@2 files => 19002260 bytes
+2024/07/26-20:39:26.528 2464 compacted to: files[ 0 2 24 0 0 0 0 ]
+2024/07/26-20:39:26.529 2464 Delete type=2 #495
+2024/07/26-20:39:26.529 2464 Delete type=2 #496
+2024/07/26-20:39:26.530 2464 Delete type=2 #497
+2024/07/26-20:39:26.530 2464 Delete type=2 #498
+2024/07/26-20:39:26.530 2464 Delete type=2 #499
+2024/07/26-20:39:26.530 2464 Delete type=2 #500
+2024/07/26-20:39:26.530 2464 Delete type=2 #528
+2024/07/26-20:39:26.530 2464 Delete type=2 #529
+2024/07/26-20:39:26.531 2464 Delete type=2 #530
+2024/07/26-20:39:26.531 2464 Delete type=2 #554
+2024/07/26-20:39:26.531 2464 Delete type=2 #571
+2024/07/26-20:39:26.531 2464 Delete type=2 #574
+2024/07/26-20:39:38.836 2cbc Level-0 table #596: started
+2024/07/26-20:39:38.914 2cbc Level-0 table #596: 1004757 bytes OK
+2024/07/26-20:39:38.917 2cbc Delete type=0 #559
+2024/07/26-20:39:39.919 2cbc Compacting 1@0 + 1@1 files
+2024/07/26-20:39:39.987 2cbc Generated table #597@0: 15800 keys, 713118 bytes
+2024/07/26-20:39:40.003 2cbc Generated table #598@0: 251 keys, 400151 bytes
+2024/07/26-20:39:40.033 2cbc Generated table #599@0: 8844 keys, 320837 bytes
+2024/07/26-20:39:40.034 2cbc Compacted 1@0 + 1@1 files => 1434106 bytes
+2024/07/26-20:39:40.034 2cbc compacted to: files[ 0 4 24 0 0 0 0 ]
+2024/07/26-20:39:41.015 2f68 Compacting 1@1 + 3@2 files
+2024/07/26-20:39:41.192 2f68 Generated table #600@1: 57732 keys, 2280382 bytes
+2024/07/26-20:39:41.320 2f68 Generated table #601@1: 69371 keys, 2210707 bytes
+2024/07/26-20:39:41.368 2f68 Generated table #602@1: 30181 keys, 714684 bytes
+2024/07/26-20:39:41.368 2f68 Compacted 1@1 + 3@2 files => 5205773 bytes
+2024/07/26-20:39:41.369 2f68 compacted to: files[ 0 3 24 0 0 0 0 ]
+2024/07/26-20:39:41.370 2f68 Delete type=2 #572
+2024/07/26-20:39:41.370 2f68 Delete type=2 #583
+2024/07/26-20:39:41.370 2f68 Delete type=2 #584
+2024/07/26-20:39:41.370 2f68 Delete type=2 #585
+2024/07/26-20:39:41.370 2f68 Delete type=2 #596
+2024/07/26-20:39:41.371 2f68 Delete type=2 #599
+2024/07/26-20:39:43.494 2cbc Compacting 1@1 + 10@2 files
+2024/07/26-20:39:43.678 2cbc Generated table #603@1: 44087 keys, 2213458 bytes
+2024/07/26-20:39:43.870 2cbc Generated table #604@1: 54391 keys, 2223654 bytes
+2024/07/26-20:39:43.955 2cbc Generated table #605@1: 2465 keys, 2174171 bytes
+2024/07/26-20:39:44.042 2cbc Generated table #606@1: 2124 keys, 2150188 bytes
+2024/07/26-20:39:44.132 2cbc Generated table #607@1: 2483 keys, 2153085 bytes
+2024/07/26-20:39:44.201 2cbc Generated table #608@1: 1277 keys, 2142485 bytes
+2024/07/26-20:39:44.279 2cbc Generated table #609@1: 1330 keys, 2147719 bytes
+2024/07/26-20:39:44.347 2cbc Generated table #610@1: 1419 keys, 2146204 bytes
+2024/07/26-20:39:44.415 2cbc Generated table #611@1: 1357 keys, 2148619 bytes
+2024/07/26-20:39:44.477 2cbc Generated table #612@1: 1281 keys, 2130916 bytes
+2024/07/26-20:39:44.477 2cbc Compacted 1@1 + 10@2 files => 21630499 bytes
+2024/07/26-20:39:44.478 2cbc compacted to: files[ 0 2 24 0 0 0 0 ]
+2024/07/26-20:39:44.479 2cbc Delete type=2 #501
+2024/07/26-20:39:44.479 2cbc Delete type=2 #586
+2024/07/26-20:39:44.479 2cbc Delete type=2 #587
+2024/07/26-20:39:44.480 2cbc Delete type=2 #588
+2024/07/26-20:39:44.480 2cbc Delete type=2 #589
+2024/07/26-20:39:44.480 2cbc Delete type=2 #590
+2024/07/26-20:39:44.480 2cbc Delete type=2 #591
+2024/07/26-20:39:44.480 2cbc Delete type=2 #592
+2024/07/26-20:39:44.480 2cbc Delete type=2 #593
+2024/07/26-20:39:44.480 2cbc Delete type=2 #594
+2024/07/26-20:39:44.481 2cbc Delete type=2 #597
+2024/07/26-20:39:44.541 2cbc Compacting 1@1 + 10@2 files
+2024/07/26-20:39:44.616 2cbc Generated table #613@1: 1271 keys, 2142819 bytes
+2024/07/26-20:39:44.689 2cbc Generated table #614@1: 1319 keys, 2144218 bytes
+2024/07/26-20:39:44.765 2cbc Generated table #615@1: 2280 keys, 2152463 bytes
+2024/07/26-20:39:44.903 2cbc Generated table #616@1: 2933 keys, 2156791 bytes
+2024/07/26-20:39:45.098 2cbc Generated table #617@1: 3031 keys, 2159856 bytes
+2024/07/26-20:39:45.272 2cbc Generated table #618@1: 17697 keys, 2183174 bytes
+2024/07/26-20:39:45.469 2cbc Generated table #619@1: 29949 keys, 2259044 bytes
+2024/07/26-20:39:45.756 2cbc Generated table #620@1: 23587 keys, 2280809 bytes
+2024/07/26-20:39:46.014 2cbc Generated table #621@1: 24829 keys, 2272025 bytes
+2024/07/26-20:39:46.271 2cbc Generated table #622@1: 25184 keys, 2253563 bytes
+2024/07/26-20:39:46.326 2cbc Generated table #623@1: 11245 keys, 434662 bytes
+2024/07/26-20:39:46.326 2cbc Compacted 1@1 + 10@2 files => 22439424 bytes
+2024/07/26-20:39:46.328 2cbc compacted to: files[ 0 1 25 0 0 0 0 ]
+2024/07/26-20:39:46.329 2cbc Delete type=2 #502
+2024/07/26-20:39:46.329 2cbc Delete type=2 #558
+2024/07/26-20:39:46.329 2cbc Delete type=2 #575
+2024/07/26-20:39:46.330 2cbc Delete type=2 #576
+2024/07/26-20:39:46.330 2cbc Delete type=2 #577
+2024/07/26-20:39:46.330 2cbc Delete type=2 #578
+2024/07/26-20:39:46.330 2cbc Delete type=2 #579
+2024/07/26-20:39:46.330 2cbc Delete type=2 #580
+2024/07/26-20:39:46.331 2cbc Delete type=2 #581
+2024/07/26-20:39:46.331 2cbc Delete type=2 #582
+2024/07/26-20:39:46.331 2cbc Delete type=2 #598

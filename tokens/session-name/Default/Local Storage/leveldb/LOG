@@ -1,0 +1,6 @@
+2024/07/26-20:41:08.727 cd0 Reusing MANIFEST c:\Users\DEV\Desktop\Assistentewpp\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/07/26-20:41:08.774 cd0 Recovering log #3
+2024/07/26-20:41:08.775 cd0 Reusing old log c:\Users\DEV\Desktop\Assistentewpp\tokens\session-name\Default\Local Storage\leveldb/000003.log 
+2024/07/26-22:21:22.486 247c Level-0 table #5: started
+2024/07/26-22:21:22.492 247c Level-0 table #5: 18740 bytes OK
+2024/07/26-22:21:22.494 247c Delete type=0 #3
